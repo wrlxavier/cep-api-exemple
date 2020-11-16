@@ -14,7 +14,7 @@ viacep.com.br/ws/01001000/json/
 
 Para instalar o Bootstrap, digite no terminal, dentro da pasta da aplicação:
 
-$ npm i
+>  `npm i`
 
 ### Dicas, dúvidas ou interesse profissional:
 
